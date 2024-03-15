@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "react-native-battleship",
+    "slug": "react-native-battleship",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
